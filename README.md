@@ -7,7 +7,7 @@ Clone the repository
 
 	git clone https://github.com/galib45/dmenu-galib
 
-Install
+Install dmenu
 
 	cd dmenu-galib
 	make
